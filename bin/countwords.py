@@ -1,6 +1,6 @@
 """
 Count the occurrences of all words in a text
-and write them to a CSV-file.
+and write them to a CSV-file. added extra comment
 """
 
 import argparse
