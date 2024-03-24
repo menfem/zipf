@@ -2,7 +2,6 @@
 
  
 
-- Amirite doe
 
 these law scripts are really great
 
